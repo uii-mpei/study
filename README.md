@@ -2,6 +2,8 @@
 
 ## Дисциплины
 
+* Учебная практика, 1 семестр:
+    * [пример использования DISLIN](https://github.com/uii-mpei/practice-dislin).
 * [Информационные технологии](courses/it)
 
 
