@@ -7,6 +7,8 @@
 * 4 КМ, выставляются по текущим результатам ЛР
 * экзамен: теоретический вопрос + контрольный вопрос из ЛР
 
+[Программа экзамена.](exam.docx)
+
 
 ## [Журнал](https://docs.google.com/spreadsheets/d/1a3L-H-0LYFEYAj1FsJyOiBPbJ5j1cMADZ0hYQcdKvfw)
 
